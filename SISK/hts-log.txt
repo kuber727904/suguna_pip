@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Mar 2025 11:10:30 at https://www.greenparkcbse.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.greenparkcbse.co.in/ -O1 "C:\My Web Sites\SISK" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:13:34	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/index-2.html (from https://www.greenparkcbse.co.in/)
+11:13:40	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/fonts.googleapis.com/css2b5e7.css?family=Poppins:wght@400;500;600;700&family=Spartan:wght@400;500;600;700;800&display=swap (from https://www.greenparkcbse.co.in/assets/css/app.css)
+11:13:40	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/assets/images/preview/courses.webp (from https://www.greenparkcbse.co.in/assets/css/app.css)
+11:13:40	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/assets/images/preview/inner-demo.webp (from https://www.greenparkcbse.co.in/assets/css/app.css)
+11:13:40	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/assets/images/testimonial/shape-1.png (from https://www.greenparkcbse.co.in/assets/css/app.css)
+11:13:40	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/assets/images/testimonial/testimonial-1.svg (from https://www.greenparkcbse.co.in/assets/css/app.css)
+11:13:40	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/assets/images/testimonial/testimonial-2.svg (from https://www.greenparkcbse.co.in/assets/css/app.css)
+11:13:40	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/assets/images/blog/shape-01.png (from https://www.greenparkcbse.co.in/assets/css/app.css)
+11:13:40	Warning: 	Link https://www.greenparkcbse.co.in/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+11:13:46	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/2024-2025/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://www.greenparkcbse.co.in/2024-2025/css1/font-awesome.css)
+11:13:46	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/2024-2025/fonts/fontawesome-webfont.eot? (from https://www.greenparkcbse.co.in/2024-2025/css1/font-awesome.css)
+11:13:46	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/2024-2025/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://www.greenparkcbse.co.in/2024-2025/css1/font-awesome.css)
+11:13:46	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/2024-2025/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://www.greenparkcbse.co.in/2024-2025/css1/font-awesome.css)
+11:13:46	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/2024-2025/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://www.greenparkcbse.co.in/2024-2025/css1/font-awesome.css)
+11:13:46	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/2024-2025/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://www.greenparkcbse.co.in/2024-2025/css1/font-awesome.css)
+11:13:46	Error: 	"Not Found" (404) at link https://www.greenparkcbse.co.in/2024-2025/images/banner.jpg (from https://www.greenparkcbse.co.in/2024-2025/css1/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 16 seconds : 223 links scanned, 207 files written (53218252 bytes overall) [49803125 bytes received at 254097 bytes/sec], 4834302 bytes transferred using HTTP compression in 112 files, ratio 25%, 18.6 requests per connection
+(15 errors, 1 warnings, 0 messages)
